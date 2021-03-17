@@ -1,4 +1,4 @@
-# Android Educational Project
+# Android Educational Project (2048)
 
 #### Gifs Walkthrough
 - Basic game logic implementation
